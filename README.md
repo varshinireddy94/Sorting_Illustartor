@@ -1,16 +1,14 @@
-# Sorting Visualizer 🎨📊
-
+# Sorting Visualizer 
 An interactive and intuitive visualizer for popular sorting algorithms built using HTML, CSS, and JavaScript. This project demonstrates how various sorting techniques work by showing each step visually in real-time.
 
-## 🔍 Features
-
+## Features
 - Visualizes multiple sorting algorithms
 - Adjustable animation speed
 - Changeable array size
 - Clean and responsive UI
 - Real-time bar updates during sorting
 
-## 🧠 Algorithms Included
+## Algorithms Included
 
 - Bubble Sort
 - Selection Sort
@@ -18,8 +16,7 @@ An interactive and intuitive visualizer for popular sorting algorithms built usi
 - Merge Sort
 - Quick Sort
 
-## 🚀 How to Run
-
+## How to Run
 1. **Clone the repository**:
 
    ```bash
