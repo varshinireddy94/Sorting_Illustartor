@@ -23,10 +23,11 @@ An interactive and intuitive visualizer for popular sorting algorithms built usi
    
  2.  **Navigate to the project directory**:
       ```bash
-   cd Sorting-Visualizer
-
+       cd Sorting-Visualizer
+      
  ```bash
    code .
+
  right-click index.html and select "Open with Live Server" (requires extension)
 
 
