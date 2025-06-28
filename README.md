@@ -25,9 +25,8 @@ An interactive and intuitive visualizer for popular sorting algorithms built usi
       ```bash
        cd Sorting-Visualizer
       
-      ```bash
+ 3.   ```bash
         code .
-
- # right-click index.html and select "Open with Live Server" (requires extension)
+    right-click index.html and select "Open with Live Server" (requires extension)
 
 
